@@ -1,6 +1,6 @@
 %Quantum S_Transform generalization: Third version (14/02/2022)
 %Select: Signal length, Decomposition levels and Bit_precision
-%The signal is randomly generated
+%The signal is randomly generated.
 
 close all;
 clear;

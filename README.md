@@ -1,6 +1,6 @@
-# S-Transform implementations (Qiskit)
+# S-Transform implementation (Qiskit)
 
 
 
 
-# S-Transform implementations (Matlab)
+# S-Transform implementation (Matlab)

@@ -222,8 +222,9 @@ for k=1:2^(Bit_precision)-1
     diff(diff==bin2dec(Minu_number)) = -k;
 end
 
-disp('|D>')
-% disp('|D_'+(d-1)+' >')
+%disp('|D>')
+%disp('|D_'+(d-1)+' >')
+disp(strcat('|D_',int2str(d-1),' >'))
 disp(diff')
 
 if d == D_level
